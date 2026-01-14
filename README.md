@@ -1,3 +1,5 @@
+Hello I changed this file
+
 This repository is designed as a hands‑on training kit for practicing common Git workflows.
 It contains three exercises:
 
